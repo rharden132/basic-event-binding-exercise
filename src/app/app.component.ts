@@ -10,4 +10,6 @@ export class AppComponent {
   logToConsole():void {
     console.log("Hello!!");
   }
+
+  showscreen = true;
 }
